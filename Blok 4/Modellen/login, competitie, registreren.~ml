@@ -3726,34 +3726,19 @@
 <XPD:OBJ name="DiagramView" type="UMLSequenceDiagramView" guid="WQ9Bj03pY0yMwf4Op5J9JwAA">
 <XPD:REF name="Diagram">/+CyPkU/UU+Fv+44YEjA2QAA</XPD:REF>
 <XPD:ATTR name="#OwnedViews" type="integer">5</XPD:ATTR>
-<XPD:OBJ name="OwnedViews[0]" type="UMLCombinedFragmentView" guid="FLuKixlvZUmmc281UlJTJQAA">
+<XPD:OBJ name="OwnedViews[0]" type="UMLFrameView" guid="B5y50syDckqzXfsqJEKzSgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">200</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">124</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">389</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">276</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">116</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">269</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">120</XPD:ATTR>
-<XPD:REF name="Model">GBbuNtOAzk+4QGXXuJHQZAAA</XPD:REF>
-<XPD:OBJ name="NameLabel" type="LabelView" guid="xxOLejHf5k2pDjJcal00GwAA">
-<XPD:ATTR name="Text" type="string"> </XPD:ATTR>
+<XPD:REF name="Model">N4dDXQ2xtkyJtbT/EEGtlQAA</XPD:REF>
+<XPD:OBJ name="NameLabel" type="LabelView" guid="Hbb8Lz5220GT0jrWnco8FwAA">
 </XPD:OBJ>
-<XPD:OBJ name="FrameTypeLabel" type="LabelView" guid="i18722IT4EKYlZgv6UDiRAAA">
+<XPD:OBJ name="FrameTypeLabel" type="LabelView" guid="Ue3u7o3tWU+96PO211vHxgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">opt</XPD:ATTR>
-</XPD:OBJ>
-<XPD:ATTR name="#ContainedViews" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="ContainedViews[0]" type="UMLInteractionOperandView" guid="90m0flio5EyRA5TxCw3G7AAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">200</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">144</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">389</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">100</XPD:ATTR>
-<XPD:REF name="Model">nsUeQZQsR02P2sR6cvq0ZwAA</XPD:REF>
-<XPD:REF name="ContainerView">FLuKixlvZUmmc281UlJTJQAA</XPD:REF>
-<XPD:OBJ name="GuardLabel" type="LabelView" guid="81xD+KEN1k+2QzthXiYM/wAA">
-<XPD:ATTR name="Text" type="string">[naam != db.naam]</XPD:ATTR>
-</XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[1]" type="UMLSeqObjectView" guid="6jvtJH21c0SqpmYGK3rCkQAA">
@@ -3909,21 +3894,12 @@
 <XPD:REF name="Views[2]">f3UcZCPUa0mPr6KifG1gxwAA</XPD:REF>
 <XPD:REF name="Views[3]">pJE33JvjMEaSaI4VtPxBjAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:ATTR name="#Fragments" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Fragments[0]" type="UMLCombinedFragment" guid="GBbuNtOAzk+4QGXXuJHQZAAA">
-<XPD:ATTR name="Name" type="string"> </XPD:ATTR>
-<XPD:ATTR name="InteractionOperator" type="UMLInteractionOperatorKind">iokOpt</XPD:ATTR>
-<XPD:REF name="EnclosingInteractionInstanceSet">8f1nCghhhUeuBWUTF/mTXwAA</XPD:REF>
+<XPD:ATTR name="#OwnedFrames" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedFrames[0]" type="UMLFrame" guid="N4dDXQ2xtkyJtbT/EEGtlQAA">
+<XPD:ATTR name="FrameKind" type="string">opt</XPD:ATTR>
+<XPD:REF name="InteractionInstanceSet">8f1nCghhhUeuBWUTF/mTXwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">1</XPD:ATTR>
-<XPD:REF name="Views[0]">FLuKixlvZUmmc281UlJTJQAA</XPD:REF>
-<XPD:ATTR name="#Operands" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Operands[0]" type="UMLInteractionOperand" guid="nsUeQZQsR02P2sR6cvq0ZwAA">
-<XPD:ATTR name="Name" type="string">InteractionOperand1</XPD:ATTR>
-<XPD:ATTR name="Guard" type="string">naam != db.naam</XPD:ATTR>
-<XPD:REF name="CombinedFragment">GBbuNtOAzk+4QGXXuJHQZAAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">1</XPD:ATTR>
-<XPD:REF name="Views[0]">90m0flio5EyRA5TxCw3G7AAA</XPD:REF>
-</XPD:OBJ>
+<XPD:REF name="Views[0]">B5y50syDckqzXfsqJEKzSgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:ATTR name="#ParticipatingInstances" type="integer">2</XPD:ATTR>
