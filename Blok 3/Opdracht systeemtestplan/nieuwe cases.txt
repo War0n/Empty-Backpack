@@ -1,0 +1,17 @@
+Toon aan dat de speler kan registreren
+Toon aan dat de speler kan inloggen
+Toon aan dat je een woord kan submitten
+Toon aan dat je een beurt kan overslaan
+Toon aan dat je letters kunt ruilen
+Toon aan dat je uitdagingen kunt bekijken
+Toon aan dat je uitdagingen kunt accepteren
+Toon aan dat je competies kunt bekijken
+Toon aan dat je spelers kan uitdagen
+Toon aan dat je een verzoek om deelname aan de competitie kan sturen
+Toon aan dat de moderator de woordenlijst kan beheren
+Toon aan dat de moderator de gelegde woorden kan beoordelen
+Toon aan dat de observer een spel kan terugkijken
+Toon aan dat de observer kan meekijken met een spel
+Toon aan dat de admin de competitie kan beheren
+Toon aan dat de admin accounts kan beheren 
+Toon aan dat de admin spelers aan een competitie kan toevoegen
