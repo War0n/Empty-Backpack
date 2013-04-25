@@ -1,0 +1,8 @@
+Inleiding: Template tekst  > Verwijderen
+Opdracht: 1 2 3 : opdracht van het plan ( dus wat er getest gaat worden, aanpassen, risico tabel). 
+Acceptatie criteria:Rework
+Productrisicoanalyse: kloppend maken
+Risicotabel: Niet consistent
+Systeemtest 
+Testproducten: Niet kloppend, volgens template
+
